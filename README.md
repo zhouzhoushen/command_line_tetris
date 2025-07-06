@@ -9,3 +9,5 @@ To start a new game type in terminal:
 <p align="center">
   <img src=preview.gif/>
 </p>
+
+Note: This repo is mirrored from https://github.com/kszczupak/command-line-tetris.
