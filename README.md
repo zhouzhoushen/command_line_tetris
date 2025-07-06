@@ -10,4 +10,16 @@ To start a new game type in terminal:
   <img src=preview.gif/>
 </p>
 
+```bash
+uv sync
+source ./venv/bin/activate
+uv run game.py
+```
+
+On windows:
+
+```bash
+uv pip install windows-curses
+```
+
 Note: This repo is mirrored from https://github.com/kszczupak/command-line-tetris.
